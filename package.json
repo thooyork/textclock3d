@@ -13,7 +13,7 @@
     "open-simplex-noise": "^1.6.0",
     "send": "^0.17.1",
     "terser-webpack-plugin": "^4.2.3",
-    "three": "^0.125.0",
+    "three": "^0.137.0",
     "three-fbxloader-offical": "^1.0.0",
     "three-gltf-loader": "^1.105.0",
     "three-obj-loader": "^1.1.3",
